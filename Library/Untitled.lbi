@@ -1,0 +1,23 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"> <nav>
+  <div id ="navi">
+    <ul><li><a href="../Templates/index.html"> Home </a></li></ul>
+      
+      <ul>
+      <li><a href="../Templates/portfolio.html"> Portfolio </a>
+      	<ul>
+      	 <li><a href="../Templates/commercial.html"> Commercial </a></li>
+      	 <li><a href="../Templates/residential.html"> Residential </a></li>
+      	 <li><a href="../Templates/heritage.html"> Heritage </a></li>
+      	 <li><a href="../Templates/renew.html"> Renovations </a></li>
+      	</ul>
+	  </li>
+      </ul>
+      
+      <ul><li><a href="../Templates/services.html"> Services </a></li></ul>
+      
+      <ul><li><a href="../Templates/about.html">About Us </a></li></ul>
+      
+      <ul>
+      <li><a href="../Templates/contact.html"> Contact Us </a></li></ul>
+  </div>
+  </nav>
